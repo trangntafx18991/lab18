@@ -1,0 +1,26 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/moonfull.jpg);
+  height: 77vh;
+  width: 100%;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/hinh-nen-mat-trang-moon-13.jpg);
+  height: 77vh;
+  width: 100%;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/hinh-nen-mat-trang-moon-1.jpeg);
+  height: 77vh;
+  width: 100%;
+}
+
+.asc {
+  display: flex;
+  justify-content: space-between;
+}
